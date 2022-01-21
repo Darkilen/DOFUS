@@ -31,4 +31,15 @@
     "previewUrl" : "https://github.com/UNIIPROD/DOFUS/blob/main/VIEWS/PA-PM.jpg?raw=true", 
     "creationDate" : "02/05/2019", 
     "modificationDate" : "07/12/2021"
+},{
+    "author" : "UNII", 
+    "name" : "MONTESQUIEU TACTICAL MODE", 
+    "keyWords" : "UNII,UNIIPROD",
+    "version" : "2.62",
+    "dofusVersion" : "2.62", 
+    "description" : "Thème développé par @UNIIPROD.", 
+    "url" : "https://github.com/UNIIPROD/DOFUS/blob/main/OPTIONS/OPTION%20-%20PA%20PM.zip?raw=true",
+    "previewUrl" : "https://github.com/UNIIPROD/DOFUS/blob/main/VIEWS/PA-PM.jpg?raw=true", 
+    "creationDate" : "21/01/2022", 
+    "modificationDate" : "21/01/2022"
 }]
